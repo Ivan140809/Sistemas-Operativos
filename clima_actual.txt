@@ -1,6 +1,0 @@
-Estado actual del clima:
-Ultimo sensor actualizado: precipitacion0.00
-Temperatura: 0.00 C
-Humedad: 0.00 %
-Velocidad del viento: 0.00 m/s
-Precipitacion: 0.00 mm
