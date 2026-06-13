@@ -1,6 +1,10 @@
 # Sistemas Operativos - Talleres
 
-[![C](https://img.shields.io/badge/language-C-555555?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) [![C++](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B) [![POSIX Threads](https://img.shields.io/badge/library-pthread-4EAA25?logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/POSIX_Threads) [![Bash](https://img.shields.io/badge/tool-Bash-4EAA25?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+![C](https://img.shields.io/badge/C-99-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-11-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![pthread](https://img.shields.io/badge/pthread-POSIX-4EAA25?style=for-the-badge&logo=linux&logoColor=white)
+![GCC](https://img.shields.io/badge/GCC-g++-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
+![Status](https://img.shields.io/badge/Estado-Finalizado-brightgreen?style=for-the-badge)
 
 Este repositorio contiene varios ejercicios prácticos de Sistemas Operativos en C/C++ que cubren:
 - Hilos POSIX usando `pthread`
